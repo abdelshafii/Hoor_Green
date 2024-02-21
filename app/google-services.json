@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395426789789",
+    "project_id": "hoor-green",
+    "storage_bucket": "hoor-green.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395426789789:android:10cd966fa17ca6ff461774",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzw7iDNS19j_JPadvrnYih3g4HKpSpykg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
